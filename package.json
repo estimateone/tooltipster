@@ -1,0 +1,9 @@
+{
+  "name": "tooltipster",
+  "version": "3.3.0",
+  "description": "A lightweight, flexible jQuery plugin enabling you to easily create semantic, modern tooltips enhanced with the power of CSS.",
+  "main": "js/jquery.tooltipster.js",
+  "repository": "git@github.com:estimateone/tooltipster.git",
+  "author": "Nick Law <nick@nicholaslaw.com.au>",
+  "license": "MIT"
+}
